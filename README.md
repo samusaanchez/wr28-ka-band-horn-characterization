@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Type** | Experimental measurement + comparative analysis |
-| **Author** | Samuel Sánchez García (sole author) |
+| **Author** | Samuel Sánchez García |
 | **Context** | University of New Mexico (UNM), 2026 |
 | **Status** | Complete — measured results |
 
